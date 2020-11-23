@@ -1,0 +1,43 @@
+                                              HTML
+
+Html = Hyper text mark up language 
+
+use of html 
+- website content
+-website paragraph heading
+- form 
+- table
+- link 
+
+
+simple structure of html
+<html>
+  <head>
+     <title></title>
+ </head>
+ <body>
+ </body>
+</html>
+
+
+
+html all elements 
+
+<p></p> = for paragraph
+
+<h1></h1> to ... <h6></h6> === For website heading
+
+<!----- comment code---> single line
+
+<a href=""></a> == for html links
+
+<img src = ""> for img put in the browser
+
+<html> form ---
+
+<html> table --
+
+order and unorder list 
+
+
+
